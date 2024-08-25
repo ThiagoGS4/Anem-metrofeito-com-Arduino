@@ -1,4 +1,4 @@
-- O anemômetro funciona com um reed-switch interno para medir quantas vezes por minuto ele é acionado
+- O anemômetro funciona com um reed-switch interno acionado por um imã para medir quantas vezes por minuto ele é acionado
 fornecendo contato e gerando dados baseados no delay de reativação, assim é medida a velocidade em km/h
 - Para medir a direção do vento foram usados 8 resistores de 10K associados atrasvés do chaveamento de 8 reed-switches, 
 que estão posicionados em cada ponto cardeal, acionados por um imã rotativo que aponta a direção do vento.
