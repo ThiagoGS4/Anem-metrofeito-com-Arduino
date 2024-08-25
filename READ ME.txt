@@ -1,0 +1,8 @@
+- O anemômetro funciona com um reed-switch interno para medir quantas vezes por minuto ele é acionado
+fornecendo contato e gerando dados baseados no delay de reativação, assim é medida a velocidade em km/h
+- Para a parte de direção do vento foram usados resistores em paralelos acionam conforme é posicionada a haste que
+determina a direção cardial, assim foram usados 8 resistores para mostrar cada ponto cardial.
+- Inclusive existe a inclusão de um sensor LM35, um fotoresistor LDR e uma tela I2C.
+
+Bibliotecas:
+- Author: LiquidCrystal I2C, Frank de Brabander
